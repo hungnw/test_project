@@ -1,8 +1,10 @@
 # test_project
-Oh la la what should I write here?
-Project 2: ETL Challenge
-This project was completed by Hung Nguyen Tasneem Bhaijee.
-The program will deliver a database with data about wine reviews. It has been aggregated at the 'wine-level' meaning individual review-user data has been averaged (rating and points). By adding average annual temperature information to both the provinces (=States for the United States only), or countries (all the other wines), a link can be made between the quality of the wine and the temperature. For potential plotting purposes, the longitude and latitude per country were also added.
+## Project 2: ETL Challenge
+##### This project was completed by Hung Nguyen Tasneem Bhaijee.
+*The program will deliver a database with data about wine reviews. *
+
+_It has been aggregated at the 'wine-level' meaning individual review-user data has been averaged (rating and points). By adding average annual temperature information to both the provinces (=States for the United States only), or countries (all the other wines), a link can be made between the quality of the wine and the temperature. For potential plotting purposes, the longitude and latitude per country were also added._
+
 The program takes 4 datasources and eventually creates a normalized database with 6 tables in PostgreSQL.
 These are the steps that were taken:
 1.    The database schema was defined quickdatabasediagrams.com as follows:
