@@ -1,5 +1,5 @@
 # Project 2: ETL Challenge
-This project was completed by Hung Nguyen Tasneem Bhaijee.
+This project was completed by Hung Nguyen @hungnw Tasneem Bhaijee.
 
 *The program will deliver a database with data about wine reviews.*
 
